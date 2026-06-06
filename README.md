@@ -83,6 +83,40 @@ Account-based access with multiple subscription plans.
 
 ---
 
+## Security
+
+NeuralCore AI never stores API keys in public repositories.
+
+Production infrastructure, backend code, credentials and deployment configurations are maintained in private repositories and secured environments.
+
+---
+
+## Architecture
+
+Frontend
+- HTML
+- CSS
+- JavaScript
+
+Backend
+- Python
+- Flask
+
+AI Providers
+- OpenAI
+- Anthropic
+- Google
+- Groq
+- Mistral
+- DeepSeek
+
+Infrastructure
+- Linux VPS
+- Nginx
+- SSL
+
+---
+
 # Platform Preview
 
 ## Dashboard
