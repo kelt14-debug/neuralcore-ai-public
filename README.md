@@ -84,7 +84,26 @@ Account-based access with multiple subscription plans.
 
 # Platform Preview
 
-Screenshots coming soon.
+## Dashboard
+
+![Dashboard](assets/app-dashboard.png)
+
+## AI Model Comparison
+
+![AI Comparison](assets/model-comparison.png)
+
+## Homepage
+
+![Homepage](assets/homepage-hero.png)
+
+## Pricing
+
+![Pricing](assets/Pricing.png)
+
+## Mobile Experience
+
+![Mobile](assets/mobile-view.png)
+
 
 ---
 
