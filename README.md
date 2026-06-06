@@ -1,3 +1,6 @@
+![NeuralCore AI](assets/NeuralCore_GitHub_Social_Preview_1280x640_under1MB.jpg)
+
+# NeuralCore AI
 # 🧠 NeuralCore AI
 ## Compare ChatGPT, Claude, Gemini, Grok and DeepSeek in One AI Platform
 > **Ask Once. Compare Multiple AI Models. Get One Trusted Answer.**
