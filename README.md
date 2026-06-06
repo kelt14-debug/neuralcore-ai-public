@@ -1,12 +1,16 @@
 ![NeuralCore AI](assets/NeuralCore_GitHub_Social_Preview_1280x640_under1MB.jpg)
 # 🧠 NeuralCore AI
-## Compare ChatGPT, Claude, Gemini, Grok and DeepSeek in One AI Platform
+## Compare 7 Leading AI Models in One Platform
+OpenAI • Claude • Gemini • Grok • Groq • DeepSeek • Mistral
 > **Ask Once. Compare Multiple AI Models. Get One Trusted Answer.**
+> > NeuralCore AI is not another AI model.
+>
+> NeuralCore AI is a multi-provider AI orchestration platform that compares responses from seven leading AI systems in one interface.
 
 [![Website](https://img.shields.io/badge/🌐_Website-neuralcore--ai.com-00E5FF?style=for-the-badge)](https://neuralcore-ai.com)
 [![Application](https://img.shields.io/badge/🚀_Launch_App-app.neuralcore--ai.com-0099FF?style=for-the-badge)](https://app.neuralcore-ai.com)
 [![Languages](https://img.shields.io/badge/🌍_Languages-10-7B61FF?style=for-the-badge)]()
-[![AI Models](https://img.shields.io/badge/🤖_AI_Models-5-0099FF?style=for-the-badge)]()
+[![AI Models](https://img.shields.io/badge/🤖_AI_Providers-7-0099FF?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)]()
 
 ---
@@ -43,13 +47,15 @@ NeuralCore AI helps by:
 
 ---
 
-# Supported AI Models
+# Supported AI Providers
 
-* OpenAI GPT
+* OpenAI (GPT models)
 * Anthropic Claude
 * Google Gemini
 * xAI Grok
+* Groq
 * DeepSeek
+* Mistral AI
 
 More providers are continuously being added.
 
@@ -91,7 +97,11 @@ Production infrastructure, backend code, credentials and deployment configuratio
 
 ---
 
-## Architecture
+### AI Orchestration Layer
+
+NeuralCore AI routes user requests to multiple AI providers,
+collects responses, compares outputs and presents results through
+a unified interface.
 
 Frontend
 - HTML
