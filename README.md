@@ -28,7 +28,7 @@
 
 ---
 
-# One Question. Seven AI Providers. One Trusted Answer.
+# One Question. Multiple AI Perspectives. One Trusted Answer.
 
 NeuralCore AI is an AI orchestration platform that allows users to compare responses from multiple leading AI providers in a single workspace.
 
@@ -103,6 +103,7 @@ Account-based access with multiple subscription plans.
 * API keys are never exposed in public repositories
 * Production infrastructure is hosted in secured environments
 * Backend source code remains private
+* Production environments are separated from public showcase repositories
 * Public repositories contain documentation and product information only
 
 ---
@@ -122,7 +123,8 @@ NeuralCore AI routes user requests to multiple AI providers, collects responses,
 ### Backend
 
 * Python
-* Flask
+* AI Orchestration Engine
+* Provider Integration Layer
 
 ### AI Providers
 
@@ -216,13 +218,14 @@ NeuralCore AI routes user requests to multiple AI providers, collects responses,
 
 # Project Status
 
-| Component              | Status   |
-| ---------------------- | -------- |
-| Production Platform    | ✅ Live   |
-| AI Providers           | ✅ Active |
-| Multilingual Interface | ✅ Active |
-| Subscription System    | ✅ Active |
-| Mobile Support         | ✅ Active |
+| Component              | Status     |
+| ---------------------- | ---------- |
+| Production Platform    | ✅ Live     |
+| AI Providers           | ✅ 7 Active |
+| Multilingual Interface | ✅ Active   |
+| Subscription System    | ✅ Active   |
+| Mobile Support         | ✅ Active   |
+| GitHub Pages           | ✅ Active   |
 
 ---
 
