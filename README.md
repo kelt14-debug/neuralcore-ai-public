@@ -47,6 +47,7 @@ Modern AI users often compare several models before trusting an answer.
 NeuralCore AI helps by:
 
 * Comparing multiple AI responses side-by-side
+* Holding full conversations with context memory across all models
 * Reducing the need for multiple AI subscriptions
 * Increasing confidence in AI-generated answers
 * Saving time during research and analysis
@@ -74,6 +75,10 @@ More providers are continuously being added.
 ### 🤖 Multi-Model AI Comparison
 
 Compare responses from multiple leading AI providers simultaneously.
+
+### 💬 Conversation Mode
+
+Hold full multi-turn conversations. NeuralCore AI remembers the context of your discussion, so every follow-up question builds on previous answers — while still comparing all 7 providers behind the scenes.
 
 ### 🌍 Multilingual Platform
 
@@ -222,6 +227,7 @@ NeuralCore AI routes user requests to multiple AI providers, collects responses,
 | ---------------------- | ---------- |
 | Production Platform    | ✅ Live     |
 | AI Providers           | ✅ 7 Active |
+| Conversation Mode      | ✅ Active   |
 | Multilingual Interface | ✅ Active   |
 | Subscription System    | ✅ Active   |
 | Mobile Support         | ✅ Active   |
