@@ -1,3 +1,5 @@
+AI orchestration platform that combines GPT-4o, Claude, Gemini, Groq and DeepSeek into one consensus-driven answer.
+
 ![NeuralCore AI](assets/NeuralCore_GitHub_Social_Preview_1280x640_under1MB.jpg)
 
 # 🧠 NeuralCore AI
