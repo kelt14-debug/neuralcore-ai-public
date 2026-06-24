@@ -123,6 +123,28 @@ private. This repository is for product presentation and documentation only.
 
 ---
 
+## Platform Preview
+
+### Homepage
+![Homepage](assets/homepage-hero.png)
+
+### How It Works
+![How it works](assets/How%20it%20works.png)
+
+### Dashboard
+![Dashboard](assets/app-dashboard.png)
+
+### AI Comparison
+![AI Comparison](assets/model-comparison.png)
+
+### Pricing
+![Pricing](assets/Pricing.png)
+
+### Mobile Experience
+![Mobile](assets/mobile-view.png)
+
+---
+
 ## Frequently Asked Questions
 
 **Is NeuralCore AI another AI model?**
