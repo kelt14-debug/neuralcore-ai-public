@@ -28,14 +28,18 @@
 
 ## Why I built this
 
-I'm not a professional developer. I don't have a CS degree, and English isn't
-my first language. I built NeuralCore AI from scratch, end to end, working
-with Claude (Anthropic) as my AI pair-programmer.
+NeuralCore AI runs 7 AI providers in parallel — OpenAI, Claude, Gemini, Grok,
+Groq, DeepSeek and Mistral — scores their agreement, and synthesizes one
+fact-checked answer, across a production platform serving 10 languages with
+its own CI/CD pipeline. I built it end to end, working with Claude
+(Anthropic) as my AI pair-programmer.
 
 I'm not chasing investors or big profit — I cover the AI token costs myself.
-What I wanted to prove is simple: today, anyone willing to learn can build
-production software with the right AI partner. And along the way, maybe help
-a few people make sense of conflicting AI answers.
+What I wanted to prove is simple: today, a solo builder with the right AI
+partner and Python can ship real production infrastructure — parallel
+provider orchestration, consensus scoring, a multilingual interface — not
+just a prototype. And along the way, maybe help a few people make sense of
+conflicting AI answers.
 
 **Don't trust just one AI.** NeuralCore AI sends your question to 7 AI models
 at once — GPT-4o, Claude, Gemini, Grok, Groq, DeepSeek and Mistral — and shows
@@ -114,6 +118,9 @@ Operated by JGOGROUP s.r.o. (Slovakia). EU servers, encrypted connections.
 
 No credit card needed for the free tier.
 
+New accounts get full PRO access free for 30 days — no credit card required.
+After the trial, you can continue on the Free plan or upgrade.
+
 ---
 
 ## Architecture
@@ -165,8 +172,9 @@ GPT-4o (OpenAI), Claude (Anthropic), Gemini (Google), Grok (xAI), Groq,
 DeepSeek and Mistral.
 
 **Is it free?**
-Yes — 5 queries/day forever free, no credit card. Paid plans start at
-€9.90/month.
+New accounts get full PRO access free for 30 days, no credit card required.
+After that, there's a permanent free tier (5 queries/day) or you can upgrade —
+paid plans start at €9.90/month.
 
 **Is my data safe? (GDPR)**
 NeuralCore AI is operated by JGOGROUP s.r.o., based in Slovakia (EU), and
@@ -212,9 +220,11 @@ Yes — 10 languages, detected automatically from your question.
 
 ## About
 
-NeuralCore AI was built solo, in Slovakia, by a self-taught developer working
-with Claude as an AI pair-programmer. Not a funded startup — a working proof
-that today, the right AI partner lets anyone ship production software.
+NeuralCore AI was built solo, in Slovakia, working with Claude as an AI
+pair-programmer — from parallel multi-provider orchestration and
+agreement/trust scoring to a 10-language interface and production CI/CD on a
+Linux VPS. Not a funded startup — a working proof that today, the right AI
+partner and Python let a solo builder ship real production infrastructure.
 
 **Don't trust just one AI. Ask 7 — get one answer you can trust.**
 
