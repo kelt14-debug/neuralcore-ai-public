@@ -1,3 +1,7 @@
+30 days of NeuralCore AI PRO free, no credit card required: https://neuralcore-ai.com
+
+---
+
 ![NeuralCore AI](assets/NeuralCore_GitHub_Social_Preview_1280x640_under1MB.jpg)
 
 # 🧠 NeuralCore AI
