@@ -2,7 +2,7 @@
 
 ---
 
-![NeuralCore AI](assets/NeuralCore_GitHub_Social_Preview_1280x640_under1MB.jpg)
+![NeuralCore AI](assets/homepage-hero.png)
 
 # 🧠 NeuralCore AI
 
@@ -175,13 +175,6 @@ DeepSeek and Mistral.
 New accounts get full PRO access free for 30 days, no credit card required.
 After that, there's a permanent free tier (5 queries/day) or you can upgrade —
 paid plans start at €9.90/month.
-
-**Is my data safe? (GDPR)**
-NeuralCore AI is operated by JGOGROUP s.r.o., based in Slovakia (EU), and
-processes data in compliance with GDPR.
-
-**Does it work in languages other than English?**
-Yes — 10 languages, detected automatically from your question.
 
 ---
 
