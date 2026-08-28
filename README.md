@@ -2,7 +2,7 @@
 
 ---
 
-![NeuralCore AI](assets/assets/home_en.png)
+![NeuralCore AI](assets/home_en.png)
 
 # 🧠 NeuralCore AI
 
