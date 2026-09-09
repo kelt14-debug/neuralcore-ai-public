@@ -111,8 +111,8 @@ Operated by JGOGROUP s.r.o. (Slovakia). EU servers, encrypted connections.
 
 | Plan     | Price        | Daily Queries | Models     |
 | -------- | ------------ | -------------- | ---------- |
-| Free     | €0           | 5/day          | 3 models   |
-| Classic  | €9.90/month  | 25/day         | 3 models   |
+| Free     | €0           | 5/day          | 7 models   |
+| Classic  | €9.90/month  | 25/day         | 7 models   |
 | Pro      | €19.90/month | 50/day         | 7 models   |
 | Business | €39.90/month | 150/day        | 7 models   |
 
@@ -198,6 +198,35 @@ paid plans start at €9.90/month.
 | Multilingual Interface   | ✅ Active (10 languages) |
 | Subscription System       | ✅ Active   |
 | Mobile Support            | ✅ Active   |
+
+---
+
+## Recent Updates
+
+**Reliability & Accuracy**
+- Added a new safety check that catches cases where our synthesized "best answer" doesn't fully match what the individual AI models actually said — when that happens, you now get the most trustworthy individual model's answer instead of a blended one that could be inaccurate.
+- Improved filtering of web search results used to inform answers, so results unrelated to your question are ignored instead of being echoed as fact.
+- Fixed a bug where weather questions for certain cities could return data for the wrong location in some languages — you'll now get an honest "no data available" instead of the wrong city's forecast.
+- Fixed a rare issue where fact-checking could silently time out on long answers; it now retries automatically.
+- Significantly improved automatic language detection accuracy, especially for Czech and French text.
+- General backend stability and performance improvements to reduce response delays under load.
+
+**Conversation Mode**
+- Fixed an issue where refreshing the page could reset your ongoing conversation — your chat history and context are now automatically restored.
+- The assistant now remembers more of your conversation history for better, more consistent follow-up answers.
+- Fixed cases where the assistant could invent personal details (like a name or location) after conversation context had been lost — it now honestly says it doesn't know instead of guessing.
+
+**Sign-in & Accounts**
+- Added Google Sign-In for faster account creation and login.
+- Fixed an issue where some users could be unexpectedly logged out after refreshing the page or closing the browser tab.
+
+**Pricing**
+- Every plan, including the free tier, now includes all 7 AI models — plans differ only by how many questions you can ask per day.
+
+**Interface**
+- Fixed the message input box so pressing Enter reliably sends your message, with correct display across all devices and screen themes.
+- Refreshed the app layout with a cleaner top bar and account menu, and a more compact mobile view.
+- Added a rotating status message while your question is being compared across all 7 models.
 
 ---
 
