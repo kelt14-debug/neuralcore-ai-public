@@ -205,6 +205,7 @@ paid plans start at €9.90/month.
 
 **Reliability & Accuracy**
 - Added a new safety check that catches cases where our synthesized "best answer" doesn't fully match what the individual AI models actually said — when that happens, you now get the most trustworthy individual model's answer instead of a blended one that could be inaccurate.
+- Fine-tuned that safety check further so it no longer second-guesses a correct combined answer by mistake, and improved it to prefer whichever individual model was honest about its own uncertainty over one that just sounded confident.
 - Improved filtering of web search results used to inform answers, so results unrelated to your question are ignored instead of being echoed as fact.
 - Fixed a bug where weather questions for certain cities could return data for the wrong location in some languages — you'll now get an honest "no data available" instead of the wrong city's forecast.
 - Fixed a rare issue where fact-checking could silently time out on long answers; it now retries automatically.
