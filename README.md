@@ -182,7 +182,6 @@ paid plans start at €9.90/month.
 
 * Additional AI providers
 * Mobile app (PWA → Google Play / App Store)
-* Medical information mode (planned for August 2026, with strict safety guardrails)
 * Expanded language support
 
 ---
@@ -202,6 +201,9 @@ paid plans start at €9.90/month.
 ---
 
 ## Recent Updates
+
+## v0.5.0
+- We now track a single, always-current version number across the whole platform, shown in the app footer — so it's always clear exactly which build you're using.
 
 **Reliability & Accuracy**
 - Added a new safety check that catches cases where our synthesized "best answer" doesn't fully match what the individual AI models actually said — when that happens, you now get the most trustworthy individual model's answer instead of a blended one that could be inaccurate.
