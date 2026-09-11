@@ -202,6 +202,9 @@ paid plans start at €9.90/month.
 
 ## Recent Updates
 
+## v0.7.1
+- The assistant now always answers in the language you asked your question in, no matter which interface language you have selected — so you no longer need to switch your UI language just to get an answer in the language you actually want.
+
 ## v0.5.0
 - We now track a single, always-current version number across the whole platform, shown in the app footer — so it's always clear exactly which build you're using.
 
