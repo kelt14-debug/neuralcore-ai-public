@@ -202,6 +202,9 @@ paid plans start at €9.90/month.
 
 ## Recent Updates
 
+## v0.7.2
+- Fixed weather lookups for a number of Czech and Polish cities that weren't recognized when asked about using a naturally inflected form of the city name (the way you'd normally phrase it in a sentence, not the dictionary form) — you'll now get the correct forecast in more of these cases instead of "no data available."
+
 ## v0.7.1
 - The assistant now always answers in the language you asked your question in, no matter which interface language you have selected — so you no longer need to switch your UI language just to get an answer in the language you actually want.
 
