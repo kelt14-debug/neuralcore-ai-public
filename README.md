@@ -202,6 +202,25 @@ paid plans start at €9.90/month.
 
 ## Recent Updates
 
+## v0.9.1
+- Homepage buttons now take you straight into trying the app, instead of first sending you to a sign-up screen.
+
+## v0.9.0
+- You can now try NeuralCore AI right away, without creating an account first — and the number of free questions available before signing up has gone up.
+
+## v0.8.0
+- Faster response times — more of the backend processing now happens in parallel instead of one step at a time.
+
+## v0.7.6
+- Fixed an issue where logging out and back in could still show your previous conversation instead of starting fresh.
+- Further reduced occasional long delays during the fact-checking step of an answer.
+
+## v0.7.5
+- Fixed an issue where leftover context from a previous question could sometimes leak into the search results for an unrelated follow-up question.
+
+## v0.7.4
+- Extended the city-name recognition fix from the previous update to cover a few more Czech and Polish cities in additional parts of the app.
+
 ## v0.7.2
 - Fixed weather lookups for a number of Czech and Polish cities that weren't recognized when asked about using a naturally inflected form of the city name (the way you'd normally phrase it in a sentence, not the dictionary form) — you'll now get the correct forecast in more of these cases instead of "no data available."
 
