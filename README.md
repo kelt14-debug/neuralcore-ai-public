@@ -202,6 +202,7 @@ paid plans start at €9.90/month.
 
 ## Recent Updates
 
+<!-- CHANGELOG:START -->
 ## v0.9.1
 - Homepage buttons now take you straight into trying the app, instead of first sending you to a sign-up screen.
 
@@ -256,6 +257,7 @@ paid plans start at €9.90/month.
 - Refreshed the app layout with a cleaner top bar and account menu, and a more compact mobile view.
 - Added a rotating status message while your question is being compared across all 7 models.
 - Fixed a technical issue that could prevent "Add to Home Screen" and offline-readiness features from loading correctly in some browsers.
+<!-- CHANGELOG:END -->
 
 ---
 
