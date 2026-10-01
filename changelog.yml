@@ -97,3 +97,9 @@ entries:
     date: "2026-09-27"
     summary:
       - "We're running a limited-time promotion through mid-October 2026: try NeuralCore AI right away with no account required, and get 20 free questions per day instead of the usual limit."
+
+  - version: "0.9.9"
+    date: "2026-10-01"
+    summary:
+      - "Fact-check warnings are now easier to read: conflicting claims are shown as a clear, translated comparison instead of raw technical text."
+      - "If no AI model can answer your question, you now see a clear message asking you to try again instead of an empty page."

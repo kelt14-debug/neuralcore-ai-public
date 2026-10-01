@@ -203,6 +203,10 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.9
+- Fact-check warnings are now easier to read: conflicting claims are shown as a clear, translated comparison instead of raw technical text.
+- If no AI model can answer your question, you now see a clear message asking you to try again instead of an empty page.
+
 ## v0.9.3
 - We're running a limited-time promotion through mid-October 2026: try NeuralCore AI right away with no account required, and get 20 free questions per day instead of the usual limit.
 
