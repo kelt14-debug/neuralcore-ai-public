@@ -103,3 +103,4 @@ entries:
     summary:
       - "Fact-check warnings are now easier to read: conflicting claims are shown as a clear, translated comparison instead of raw technical text."
       - "If no AI model can answer your question, you now see a clear message asking you to try again instead of an empty page."
+      - "Open-ended factual questions, such as who invented something, are now answered by comparing all of our AI models, for more balanced and reliable results."
