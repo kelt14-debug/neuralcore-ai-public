@@ -203,6 +203,10 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.11
+- The question box now stays pinned to the bottom of the screen, so you can ask a follow-up question without scrolling back up.
+- After you ask a question, the page now takes you to the start of the answer, so you can read it from the top.
+
 ## v0.9.9
 - Fact-check warnings are now easier to read: conflicting claims are shown as a clear, translated comparison instead of raw technical text.
 - If no AI model can answer your question, you now see a clear message asking you to try again instead of an empty page.

@@ -104,3 +104,9 @@ entries:
       - "Fact-check warnings are now easier to read: conflicting claims are shown as a clear, translated comparison instead of raw technical text."
       - "If no AI model can answer your question, you now see a clear message asking you to try again instead of an empty page."
       - "Open-ended factual questions, such as who invented something, are now answered by comparing all of our AI models, for more balanced and reliable results."
+
+  - version: "0.9.11"
+    date: "2026-10-03"
+    summary:
+      - "The question box now stays pinned to the bottom of the screen, so you can ask a follow-up question without scrolling back up."
+      - "After you ask a question, the page now takes you to the start of the answer, so you can read it from the top."
