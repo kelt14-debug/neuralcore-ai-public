@@ -213,7 +213,7 @@ paid plans start at €9.90/month.
 - Open-ended factual questions, such as who invented something, are now answered by comparing all of our AI models, for more balanced and reliable results.
 
 ## v0.9.3
-- We're running a limited-time promotion through mid-October 2026: try NeuralCore AI right away with no account required, and get 20 free questions per day instead of the usual limit.
+- You can try NeuralCore AI right away without registration — 20 questions per day until further notice.
 
 ## v0.9.1
 - Homepage buttons now take you straight into trying the app, instead of first sending you to a sign-up screen.
