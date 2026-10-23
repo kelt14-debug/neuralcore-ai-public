@@ -203,6 +203,9 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.20
+- Improved answer reliability: one of the AI models could fail to respond in some cases — fixed.
+
 ## v0.9.11
 - The question box now stays pinned to the bottom of the screen, so you can ask a follow-up question without scrolling back up.
 - After you ask a question, the page now takes you to the start of the answer, so you can read it from the top.
