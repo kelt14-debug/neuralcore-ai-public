@@ -115,3 +115,8 @@ entries:
     date: "2026-10-23"
     summary:
       - "Improved answer reliability: one of the AI models could fail to respond in some cases — fixed."
+
+  - version: "0.9.22"
+    date: "2026-10-23"
+    summary:
+      - "The app no longer flickers while it loads — the page stays steady at the top until you start scrolling."

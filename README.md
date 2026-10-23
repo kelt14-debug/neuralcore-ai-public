@@ -203,6 +203,9 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.22
+- The app no longer flickers while it loads — the page stays steady at the top until you start scrolling.
+
 ## v0.9.20
 - Improved answer reliability: one of the AI models could fail to respond in some cases — fixed.
 
