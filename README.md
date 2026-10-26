@@ -42,7 +42,7 @@ just a prototype. And along the way, maybe help a few people make sense of
 conflicting AI answers.
 
 **Don't trust just one AI.** NeuralCore AI sends your question to 7 AI models
-at once — GPT-4o, Claude, Gemini, Grok, Groq, DeepSeek and Mistral — and shows
+at once — GPT-4o mini, Claude, Gemini, Grok, Groq, DeepSeek and Mistral — and shows
 you where they agree. The result is one answer with a trust score, not a
 guess from a single model. If one AI hallucinates, the other six reveal it.
 
@@ -66,7 +66,7 @@ that's a more honest signal than any single model's confidence.
 
 ## Supported AI Providers
 
-* OpenAI (GPT-4o)
+* OpenAI (GPT-4o mini)
 * Anthropic (Claude)
 * Google (Gemini)
 * xAI (Grok)
@@ -168,7 +168,7 @@ questions where being wrong matters, asking 7 models is more reliable than
 trusting one.
 
 **Which AI models are supported?**
-GPT-4o (OpenAI), Claude (Anthropic), Gemini (Google), Grok (xAI), Groq,
+GPT-4o mini (OpenAI), Claude (Anthropic), Gemini (Google), Grok (xAI), Groq,
 DeepSeek and Mistral.
 
 **Is it free?**
@@ -203,6 +203,11 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.24
+- Model names on our website and in the app now match exactly what runs behind them.
+- The "Continue with Google" button now appears in your language.
+- New: tap an example question under the input box to try NeuralCore instantly.
+
 ## v0.9.22
 - The app no longer flickers while it loads — the page stays steady at the top until you start scrolling.
 

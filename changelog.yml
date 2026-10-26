@@ -120,3 +120,10 @@ entries:
     date: "2026-10-23"
     summary:
       - "The app no longer flickers while it loads — the page stays steady at the top until you start scrolling."
+
+  - version: "0.9.24"
+    date: "2026-10-26"
+    summary:
+      - "Model names on our website and in the app now match exactly what runs behind them."
+      - "The \"Continue with Google\" button now appears in your language."
+      - "New: tap an example question under the input box to try NeuralCore instantly."
