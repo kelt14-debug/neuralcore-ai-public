@@ -132,3 +132,8 @@ entries:
     date: "2026-10-27"
     summary:
       - "When the AI models disagree strongly or a combined answer can't be verified, we now tell you why we show a single model's answer."
+
+  - version: "0.9.30"
+    date: "2026-10-27"
+    summary:
+      - "New: while our AI models work on your question, you now see each model's answer as soon as it arrives, marked as not yet checked. If a model can't answer in time, we tell you instead of leaving a gap."

@@ -203,6 +203,9 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.30
+- New: while our AI models work on your question, you now see each model's answer as soon as it arrives, marked as not yet checked. If a model can't answer in time, we tell you instead of leaving a gap.
+
 ## v0.9.27
 - When the AI models disagree strongly or a combined answer can't be verified, we now tell you why we show a single model's answer.
 
