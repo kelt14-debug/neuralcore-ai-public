@@ -203,6 +203,9 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.27
+- When the AI models disagree strongly or a combined answer can't be verified, we now tell you why we show a single model's answer.
+
 ## v0.9.24
 - Model names on our website and in the app now match exactly what runs behind them.
 - The "Continue with Google" button now appears in your language.

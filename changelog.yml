@@ -127,3 +127,8 @@ entries:
       - "Model names on our website and in the app now match exactly what runs behind them."
       - "The \"Continue with Google\" button now appears in your language."
       - "New: tap an example question under the input box to try NeuralCore instantly."
+
+  - version: "0.9.27"
+    date: "2026-10-27"
+    summary:
+      - "When the AI models disagree strongly or a combined answer can't be verified, we now tell you why we show a single model's answer."
