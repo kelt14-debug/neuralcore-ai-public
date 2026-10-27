@@ -137,3 +137,8 @@ entries:
     date: "2026-10-27"
     summary:
       - "New: while our AI models work on your question, you now see each model's answer as soon as it arrives, marked as not yet checked. If a model can't answer in time, we tell you instead of leaving a gap."
+
+  - version: "0.9.36"
+    date: "2026-10-27"
+    summary:
+      - "Weather questions about upcoming days now get real forecasts: ask about tomorrow, the day after, or a specific weekday and you get that day's expected temperatures and rain chances, in your own language."

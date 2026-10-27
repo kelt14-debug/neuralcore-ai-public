@@ -203,6 +203,9 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.36
+- Weather questions about upcoming days now get real forecasts: ask about tomorrow, the day after, or a specific weekday and you get that day's expected temperatures and rain chances, in your own language.
+
 ## v0.9.30
 - New: while our AI models work on your question, you now see each model's answer as soon as it arrives, marked as not yet checked. If a model can't answer in time, we tell you instead of leaving a gap.
 
