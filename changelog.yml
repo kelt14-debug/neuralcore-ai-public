@@ -142,3 +142,8 @@ entries:
     date: "2026-10-27"
     summary:
       - "Weather questions about upcoming days now get real forecasts: ask about tomorrow, the day after, or a specific weekday and you get that day's expected temperatures and rain chances, in your own language."
+
+  - version: "0.9.39"
+    date: "2026-10-27"
+    summary:
+      - "Fewer false alarms: our answer check no longer flags a conflict when AI models merely round a number differently, use different units, or count days until a date by one."

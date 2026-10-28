@@ -203,6 +203,9 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.39
+- Fewer false alarms: our answer check no longer flags a conflict when AI models merely round a number differently, use different units, or count days until a date by one.
+
 ## v0.9.36
 - Weather questions about upcoming days now get real forecasts: ask about tomorrow, the day after, or a specific weekday and you get that day's expected temperatures and rain chances, in your own language.
 
