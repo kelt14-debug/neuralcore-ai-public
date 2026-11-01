@@ -203,6 +203,9 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.44
+- New plain-language guide "Compare AI answers" in 10 languages: where to compare answers from ChatGPT, Gemini, Claude and others, how to judge them, and how NeuralCore AI asks 7 models at once.
+
 ## v0.9.39
 - Fewer false alarms: our answer check no longer flags a conflict when AI models merely round a number differently, use different units, or count days until a date by one.
 
