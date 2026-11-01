@@ -173,7 +173,7 @@ DeepSeek and Mistral.
 
 **Is it free?**
 New accounts get full PRO access free for 30 days, no credit card required.
-After that, there's a permanent free tier (5 queries/day) or you can upgrade —
+After that, there's a permanent free tier (20 queries/day) or you can upgrade —
 paid plans start at €9.90/month.
 
 ---
@@ -203,6 +203,9 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.50
+- Registered accounts on the free plan now get 20 questions per day, the same as visitors without an account.
+
 ## v0.9.44
 - New plain-language guide "Compare AI answers" in 10 languages: where to compare answers from ChatGPT, Gemini, Claude and others, how to judge them, and how NeuralCore AI asks 7 models at once.
 

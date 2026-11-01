@@ -152,3 +152,8 @@ entries:
     date: "2026-11-01"
     summary:
       - "New plain-language guide \"Compare AI answers\" in 10 languages: where to compare answers from ChatGPT, Gemini, Claude and others, how to judge them, and how NeuralCore AI asks 7 models at once."
+
+  - version: "0.9.50"
+    date: "2026-11-01"
+    summary:
+      - "Registered accounts on the free plan now get 20 questions per day, the same as visitors without an account."
