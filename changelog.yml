@@ -165,3 +165,10 @@ entries:
       - "Added a recorded example result on the first screen so you can see what you get before asking your own question."
       - "Improved the language consistency of answers: models now reply in the language of your question."
       - "Added a short note under the agreement score explaining that agreement between models is not proof, and that numbers, dates, prices and legal matters should be checked against the primary source."
+
+  - version: "0.9.59"
+    date: "2026-11-03"
+    summary:
+      - "New: pages showing what 7 AI models answered to the same everyday question, with each model's answer and how much they agree. Available in English and Slovak."
+      - "Fixed: some everyday questions were wrongly treated as questions about market prices and got an unrelated answer. They now get a normal answer."
+      - "Improved the language of answers to short English questions, so the models reply in English."

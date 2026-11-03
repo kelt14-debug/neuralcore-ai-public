@@ -203,6 +203,11 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.59
+- New: pages showing what 7 AI models answered to the same everyday question, with each model's answer and how much they agree. Available in English and Slovak.
+- Fixed: some everyday questions were wrongly treated as questions about market prices and got an unrelated answer. They now get a normal answer.
+- Improved the language of answers to short English questions, so the models reply in English.
+
 ## v0.9.57
 - Links from our website pages now open the app with the question already prepared, so you can try it with one click.
 - Added a recorded example result on the first screen so you can see what you get before asking your own question.
