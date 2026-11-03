@@ -203,6 +203,12 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.57
+- Links from our website pages now open the app with the question already prepared, so you can try it with one click.
+- Added a recorded example result on the first screen so you can see what you get before asking your own question.
+- Improved the language consistency of answers: models now reply in the language of your question.
+- Added a short note under the agreement score explaining that agreement between models is not proof, and that numbers, dates, prices and legal matters should be checked against the primary source.
+
 ## v0.9.50
 - Registered accounts on the free plan now get 20 questions per day, the same as visitors without an account.
 
