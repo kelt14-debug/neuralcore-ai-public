@@ -203,6 +203,10 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.62
+- Improved answers in Slovak and Czech: when an answer draws on fresh web information, the models now reply in the language of your question instead of drifting into a neighbouring language.
+- Fixed: more everyday questions containing words like "stocks", "dollar" or "oil" were wrongly treated as market-price questions. They now get a normal answer.
+
 ## v0.9.59
 - New: pages showing what 7 AI models answered to the same everyday question, with each model's answer and how much they agree. Available in English and Slovak.
 - Fixed: some everyday questions were wrongly treated as questions about market prices and got an unrelated answer. They now get a normal answer.

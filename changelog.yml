@@ -172,3 +172,9 @@ entries:
       - "New: pages showing what 7 AI models answered to the same everyday question, with each model's answer and how much they agree. Available in English and Slovak."
       - "Fixed: some everyday questions were wrongly treated as questions about market prices and got an unrelated answer. They now get a normal answer."
       - "Improved the language of answers to short English questions, so the models reply in English."
+
+  - version: "0.9.62"
+    date: "2026-11-05"
+    summary:
+      - "Improved answers in Slovak and Czech: when an answer draws on fresh web information, the models now reply in the language of your question instead of drifting into a neighbouring language."
+      - "Fixed: more everyday questions containing words like \"stocks\", \"dollar\" or \"oil\" were wrongly treated as market-price questions. They now get a normal answer."
