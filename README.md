@@ -203,6 +203,11 @@ paid plans start at €9.90/month.
 ## Recent Updates
 
 <!-- CHANGELOG:START -->
+## v0.9.67
+- Fixed: in some answers one of the seven AI models could be missing. All seven models answer again.
+- New: simple pages showing what 7 AI models answered to everyday questions, such as which phone or console to pick and what the difference is between two common things. In English.
+- New: a plain-language guide to the difference between ChatGPT and Gemini, in 10 languages.
+
 ## v0.9.62
 - Improved answers in Slovak and Czech: when an answer draws on fresh web information, the models now reply in the language of your question instead of drifting into a neighbouring language.
 - Fixed: more everyday questions containing words like "stocks", "dollar" or "oil" were wrongly treated as market-price questions. They now get a normal answer.
