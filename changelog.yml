@@ -183,6 +183,5 @@ entries:
     date: "2026-11-19"
     summary:
       - "Fixed: in some answers one of the seven AI models could be missing. All seven models answer again."
-      - "New: simple pages showing what 7 AI models answered to everyday questions, such as which phone or console to pick and what the difference is between two common things. In English."
+      - "New: simple pages showing what 7 AI models answered to everyday questions, such as which phone or console to pick and what the difference is between two common things. Available in English, Slovak, Czech, Spanish, German, French, Italian, Polish, Russian and Hungarian, with questions chosen separately for each language."
       - "New: a plain-language guide to the difference between ChatGPT and Gemini, in 10 languages."
-      - "New: the same kind of everyday-question pages, now also in Spanish, German, French and Italian, with questions chosen separately for each language."
